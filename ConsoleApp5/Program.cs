@@ -8,5 +8,9 @@ namespace ConsoleApp5
         {
             Console.WriteLine("Hello World!");
         }
+        static void Test()
+        {
+            Console.WriteLine("Test");
+        }
     }
 }
